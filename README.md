@@ -2,7 +2,7 @@
 - Email: joseph.locasto@gmail.com
 - Secondary Email: jal36804@outlook.com
 
-  ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg
+  ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg)
 
 
 <!---
