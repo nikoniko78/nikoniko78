@@ -1,9 +1,4 @@
-# My GitHub Profile
-
-![GitHub Followers](https://img.shields.io/github/followers/nikoniko78?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/nikoniko78?label=Stars&style=social)
-
----
+# Hi, I'm nikoniko78!
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
