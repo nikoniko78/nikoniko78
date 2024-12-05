@@ -3,7 +3,11 @@
 - Secondary Email: jal36804@outlook.com
 
 # My Stuff:
+## Visitor Count
   ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg)
+## Streaks:  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikoniko78&theme=default)](https://git.io/streak-stats)
+
 
 
 <!---
