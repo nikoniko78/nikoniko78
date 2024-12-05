@@ -9,6 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
 
 ## Technologies:
+
 ### Languages I Know: <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> <br /> ### Languages and Tools I'm Learning: <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /> <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /> <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" /> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <br />
 
 ## Activity: 
