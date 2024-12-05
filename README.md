@@ -10,8 +10,7 @@
 
 ## Technologies:
 
-### Languages I Know: <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> <br /> ### Languages and Tools I'm Learning: <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /> <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /> <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" /> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <br />
-
+### Languages I Know: <p> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/> </p> ### Languages and Tools I'm Learning: <p> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/> </p>
 ## Activity: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoniko78&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
