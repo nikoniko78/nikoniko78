@@ -4,6 +4,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies:
 
