@@ -6,7 +6,7 @@
 ## Visitor Count
   ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg)
 ## Streaks:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikoniko78&theme=default)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikoniko78&theme=default)](https://git.io/streak-stats)
 
 
 
