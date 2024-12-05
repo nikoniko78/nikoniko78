@@ -1,6 +1,6 @@
 - Hi, I’m @nikoniko78
 - Email: joseph.locasto@gmail.com
-- Secondary Email: jal36804@outlook.com
+- Secondary Email: jal36804@outlook.com  
 ![GitHub Followers](https://img.shields.io/github/followers/nikoniko78?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/nikoniko78?label=Stars&style=social)
 
@@ -11,7 +11,7 @@
 ## Activity: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoniko78&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" /> <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /> <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /> <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /> <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" /> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> <img align="left" alt="K" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vector_k_logo.svg/1200px-Vector_k_logo.svg.png" /> <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoniko78&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
