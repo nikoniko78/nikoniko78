@@ -4,7 +4,8 @@
 
 # My Stuff:
 ## Visitor Count
-  ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg)
+ ![Profile Views](https://komarev.com/ghpvc/?username=nikoniko78&color=green)
+
 ## Activity: 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoniko78&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
