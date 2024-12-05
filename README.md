@@ -13,8 +13,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools I'm Learning
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40"/>
@@ -22,6 +20,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" alt="Ruby" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
