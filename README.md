@@ -4,7 +4,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies:
 
@@ -13,6 +12,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools I'm Learning
 <p>
