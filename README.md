@@ -1,6 +1,3 @@
-- Hi, I’m @nikoniko78
-- Email: joseph.locasto@gmail.com
-- Secondary Email: jal36804@outlook.com  
 ![GitHub Followers](https://img.shields.io/github/followers/nikoniko78?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/nikoniko78?label=Stars&style=social)
 
@@ -21,12 +18,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoniko78&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-
-
-
-
-
-<!---
-nikoniko78/nikoniko78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Contact Me: 
+## Main: josephlocasto7@gmail.com
+## Secondary: jal36804@outlook.com
