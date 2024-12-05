@@ -3,7 +3,6 @@
 - Secondary Email: jal36804@outlook.com
 
 # My Stuff:
----
   ![Visitor Count](https://profile-counter.glitch.me/{nikoniko78}/count.svg)
 
 
