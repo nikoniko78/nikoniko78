@@ -1,6 +1,7 @@
 # Hi, I'm nikoniko78!
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nikoniko78&theme=react-dark&roll=true" alt="Contribution Roller" />
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=nikoniko78&theme=react-dark&custom_title=Rolling+Through+My+GitHub+Activity)](https://github.com/anuraghazra/github-readme-activity-graph)
+
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
