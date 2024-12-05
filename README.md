@@ -1,7 +1,15 @@
 # Hi, I'm nikoniko78!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoniko78&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/nikoniko78/count.svg)
+
+---
+
+## Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoniko78&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -22,12 +30,6 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikoniko78&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## Activity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikoniko78&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikoniko78&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
