@@ -30,7 +30,7 @@
 ---
 
 ## Contact Me
-- **Main**: josephlocasto7@gmail.com
+- **Main**: josephlocasto4@gmail.com
 - **Secondary**: jal36804@outlook.com
 
 ---
